@@ -1,2 +1,2 @@
 # hello-world
-cisco is amazing and party
+cisco is amazing
